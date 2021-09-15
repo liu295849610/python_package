@@ -1,1 +1,2 @@
 conda.exe filter=lfs diff=lfs merge=lfs -text
+conda filter=lfs diff=lfs merge=lfs -text
